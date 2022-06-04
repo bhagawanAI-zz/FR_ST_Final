@@ -1,0 +1,12 @@
+/*
+
+!.gitignore
+!alignment/
+!alignment/*
+!detection/
+!detection/*
+!recognition/
+!recognition/*
+!fr.py
+!README.md
+!requirements.txt

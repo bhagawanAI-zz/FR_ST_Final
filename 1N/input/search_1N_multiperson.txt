@@ -1,0 +1,11 @@
+13 ../common/images/S002-01-t10_01.ppm MUGSHOT
+15 ../common/images/S004-01-t10_01.ppm MUGSHOT
+17 ../common/images/S006-01-t10_01.ppm MUGSHOT
+21 ../common/images/S008-01-t10_01.ppm MUGSHOT
+27 ../common/images/S010-01-t10_01.ppm MUGSHOT
+29 ../common/images/S012-01-t10_01.ppm MUGSHOT
+31 ../common/images/S013-02-t10_01.ppm MUGSHOT
+286 ../common/images/S152-01-t10_01.ppm MUGSHOT
+1303 ../common/images/multi1.ppm PHOTOJOURNALISM
+1305 ../common/images/multi2.ppm WILD
+1318 ../common/images/multi3.ppm WILD

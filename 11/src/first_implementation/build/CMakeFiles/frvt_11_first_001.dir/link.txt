@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC  -std=c++17  -shared -Wl,-soname,libfrvt_11_first_001.so -o /home/ubuntu/frvt/11/lib/libfrvt_11_first_001.so CMakeFiles/frvt_11_first_001.dir/firstimplfrvt11.cpp.o   -L/home/ubuntu/frvt/11/src/first_implementation/../../config/python3_9_13/lib 
