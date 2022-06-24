@@ -1,7 +1,6 @@
 keras==2.8.0 --target /home/ubuntu/frvt/11/config/
 mediapipe==0.8.9.1 --target /home/ubuntu/frvt/11/config/
 numpy==1.22.3 --target /home/ubuntu/frvt/11/config/
-opencv-contrib-python==4.5.5.64 --target /home/ubuntu/frvt/11/config/
-opencv-python==4.5.5.64 --target /home/ubuntu/frvt/11/config/
 tensorflow==2.8.0 --target /home/ubuntu/frvt/11/config/
 scipy==1.7.3 --target /home/ubuntu/frvt/11/config/
+opencv-python-headless==4.5.5.64 --target /home/ubuntu/frvt/11/config/
