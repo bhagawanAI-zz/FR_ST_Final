@@ -7,8 +7,8 @@ set (CMAKE_RUNTIME_OUTPUT_DIRECTORY ${CMAKE_SOURCE_DIR}/bin)
 # Get library implementation name
 set (FRVT_IMPL_LIB $ENV{FRVT_IMPL_LIB})
 
-link_directories(${CMAKE_CURRENT_SOURCE_DIR}/../../otherConfig/python3_9_13/lib/ ${CMAKE_CURRENT_SOURCE_DIR}/../../config/python3_9_13/lib/)
+# link_directories(${CMAKE_CURRENT_SOURCE_DIR}/../../otherConfig/python3_9_13/lib/ ${CMAKE_CURRENT_SOURCE_DIR}/../../config/python3_9_13/lib/)
 
 # Build executable link to dependent libraries
 add_executable (validate11 ../../../common/src/util/util.cpp validate11.cpp)
-target_link_libraries (validate11 ${FRVT_IMPL_LIB} python3.9)
+target_link_libraries (validate11 ${FRVT_IMPL_LIB})
