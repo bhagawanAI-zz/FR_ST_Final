@@ -3,5 +3,3 @@ __pycache__/
 *.py[cod]
 *$py.class
 11/build/**
-11/python/**
-11/python39/**
