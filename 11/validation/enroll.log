@@ -1,0 +1,14 @@
+id image templateSizeBytes returnCode isLeftEyeAssigned isRightEyeAssigned xleft yleft xright yright
+1 ../common/images/S001-01-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+3 ../common/images/S001-03-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+5 ../common/images/S001-05-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+7 ../common/images/S001-07-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+9 ../common/images/S001-08-t10_02.ppm 512 0 0 0 65535 65535 65535 65535
+11 ../common/images/S001-09-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+13 ../common/images/S003-01-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+15 ../common/images/S005-01-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+17 ../common/images/S006-02-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+19 ../common/images/S007-01-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+21 ../common/images/S008-02-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+23 ../common/images/S008-04-t10_01.ppm 512 0 0 0 65535 65535 65535 65535
+25 ../common/images/S008-06-t10_01.ppm 512 0 0 0 65535 65535 65535 65535

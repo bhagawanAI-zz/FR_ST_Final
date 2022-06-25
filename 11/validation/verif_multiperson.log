@@ -1,0 +1,5 @@
+id image templateSizeBytes returnCode numDetections detectionIndex isLeftEyeAssigned isRightEyeAssigned xleft yleft xright yright
+13_0 ../common/images/S002-01-t10_01.ppm 512 0 1 0 0 0 65535 65535 65535 65535
+15_0 ../common/images/S004-01-t10_01.ppm 512 0 1 0 0 0 65535 65535 65535 65535
+17_0 ../common/images/S006-01-t10_01.ppm 512 0 1 0 0 0 65535 65535 65535 65535
+21_0 ../common/images/S008-01-t10_01.ppm 512 0 1 0 0 0 65535 65535 65535 65535
