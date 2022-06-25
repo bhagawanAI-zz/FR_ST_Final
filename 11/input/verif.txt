@@ -1,0 +1,13 @@
+2 ../common/images/S001-02-t10_01.ppm MUGSHOT
+4 ../common/images/S001-04-t10_01.ppm MUGSHOT
+6 ../common/images/S001-06-t10_01.ppm MUGSHOT
+8 ../common/images/S001-08-t10_01.ppm MUGSHOT
+10 ../common/images/S001-08-t10_03.ppm MUGSHOT
+12 ../common/images/S002-01-t10_01.ppm MUGSHOT
+14 ../common/images/S004-01-t10_01.ppm MUGSHOT
+16 ../common/images/S006-01-t10_01.ppm MUGSHOT
+18 ../common/images/S006-03-t10_01.ppm MUGSHOT
+20 ../common/images/S008-01-t10_01.ppm MUGSHOT
+22 ../common/images/S008-03-t10_01.ppm MUGSHOT
+24 ../common/images/S008-05-t10_01.ppm MUGSHOT
+26 ../common/images/S008-07-t10_01.ppm MUGSHOT

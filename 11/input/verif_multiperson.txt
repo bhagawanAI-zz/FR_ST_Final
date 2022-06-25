@@ -1,0 +1,4 @@
+13 ../common/images/S002-01-t10_01.ppm MUGSHOT
+15 ../common/images/S004-01-t10_01.ppm MUGSHOT
+17 ../common/images/S006-01-t10_01.ppm MUGSHOT
+21 ../common/images/S008-01-t10_01.ppm MUGSHOT
