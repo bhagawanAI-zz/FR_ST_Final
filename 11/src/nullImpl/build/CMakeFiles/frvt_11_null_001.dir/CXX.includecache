@@ -1,0 +1,46 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../../../../common/src/include/frvt_structs.h
+cstdint
+-
+iostream
+-
+memory
+-
+string
+-
+utility
+-
+vector
+-
+
+../../include/frvt11.h
+cstdint
+-
+string
+-
+vector
+-
+frvt_structs.h
+-
+
+/home/ubuntu/frvt/11/src/nullImpl/nullimplfrvt11.cpp
+algorithm
+-
+cstring
+-
+cstdlib
+-
+nullimplfrvt11.h
+/home/ubuntu/frvt/11/src/nullImpl/nullimplfrvt11.h
+
+/home/ubuntu/frvt/11/src/nullImpl/nullimplfrvt11.h
+frvt11.h
+/home/ubuntu/frvt/11/src/nullImpl/frvt11.h
+
